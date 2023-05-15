@@ -17,4 +17,4 @@ git commands
 -- git commit -m "important to add message of commit so you have information on what this commit did"
 -- pull 
 -- push 
---
+-- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
