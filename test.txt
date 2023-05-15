@@ -11,8 +11,8 @@ git branch -m master main # changes the default branch named "master" to "main"
 
 
 git commands 
--- add . adds every files
--- commit 
+-- git add . - adds every files
+-- git commit -m "important to add message of commit so you have information on what this commit did"
 -- pull 
 -- push 
 --
