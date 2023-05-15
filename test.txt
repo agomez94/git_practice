@@ -1,0 +1,18 @@
+new-item test.txt # creates new item on windows
+touch test.text # creates new item on linux and mac
+ctrl-s # SAVES!
+ctrl-z # undo
+ctrl-c # copy
+ctrl-v # paste
+ctrl-a # highlight everything
+
+git status # status on commits and files tracked/untracked
+git branch -m master main # changes the default branch named "master" to "main"
+
+
+git commands 
+-- add . adds every files
+-- commit 
+-- pull 
+-- push 
+--
