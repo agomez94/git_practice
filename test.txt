@@ -9,6 +9,8 @@ ctrl-a # highlight everything
 git status # status on commits and files tracked/untracked
 git branch -m master main # changes the default branch named "master" to "main"
 
+Git is used for version control!
+Git is important for your future work experience!
 
 git commands 
 -- git add . - adds every files
