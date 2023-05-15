@@ -18,3 +18,4 @@ git commands
 -- pull 
 -- push 
 -- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
+
