@@ -1,0 +1,30 @@
+new-item test.txt # creates new item on windows
+touch test.text # creates new item on linux and mac
+ctrl-s # SAVES!
+ctrl-z # undo
+ctrl-c # copy
+ctrl-v # paste
+ctrl-a # highlight everything
+
+git status # status on commits and files tracked/untracked
+git branch -m master main # changes the default branch named "master" to "main"
+
+Git is used for version control!
+Git is important for your future work experience!
+
+git commands 
+-- git init = Everything starts from here. The first step is to initialize a new Git repo locally in your project root.
+-- git status = This command will show the status of the current repository including staged, unstaged, and untracked files.
+-- git add . - adds every files
+-- git commit -m "important to add message of commit so you have information on what this commit did"
+-- pull 
+-- push 
+-- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
+-- git checkout (name of branch)
+-- git checkout -b dev = creates new branch named dev
+-- git remote add orgin [http....] -- this is to add your github repository
+-- git remote --help = to get more information
+-- git remote remove [name] = removes remote from list
+
+-- git push -u origin main
+At this point, only changes made will be in the personal develop branch 
