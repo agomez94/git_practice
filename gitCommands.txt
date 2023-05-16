@@ -20,4 +20,9 @@ git commands
 -- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
 -- git checkout (name of branch)
 -- git checkout -b dev = creates new branch named dev
+-- git remote add orgin [http....] -- this is to add your github repository
+-- git remote --help = to get more information
+-- git remote remove [name] = removes remote from list
+
+-- git push -u origin main
 At this point, only changes made will be in the personal develop branch 
