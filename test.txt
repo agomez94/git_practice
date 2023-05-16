@@ -18,5 +18,6 @@ git commands
 -- pull 
 -- push 
 -- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
-
+-- git checkout (name of branch)
+-- git checkout -b dev = creates new branch named dev
 At this point, only changes made will be in the personal develop branch 
