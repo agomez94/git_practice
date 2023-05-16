@@ -19,3 +19,4 @@ git commands
 -- push 
 -- git log - viewing the commit history of a repository. It provides valuable information about the changes made to a project over time
 
+At this point, only changes made will be in the personal develop branch 
